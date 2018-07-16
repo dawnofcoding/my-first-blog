@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+py34env
+/static
+.DS_STORE
